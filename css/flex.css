@@ -1,0 +1,11 @@
+img {
+    width: 250px;
+}
+
+.flex-container {
+    background-color: #8eb5dd;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
